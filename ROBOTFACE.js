@@ -11,8 +11,8 @@ var antennaEnd = randomNumber(70,10);
 background(rgb(randomNumber(1,255),backgroundColor,randomNumber(1,255)));
 
 // Antennas
-shape(200, 100, 316, antennaEnd);
-shape(176, 100, 116, antennaEnd);
+line(200, 100, 316, antennaEnd);
+line(176, 100, 116, antennaEnd);
 fill(randomNumber(1,255),randomNumber(1,255),randomNumber(1,255));
 ellipse(316,antennaEnd,30,30);
 ellipse(116,antennaEnd,30,30);
