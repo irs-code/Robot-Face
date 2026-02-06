@@ -1,7 +1,7 @@
 # Robot-Face
 From the Robot Face assignment on Code.org javascript curriculum.
 
-Final grade will be posted.
+Final grade: 100. Make sure to complete project guide fully for 25% of the grade.
 
 # Rubric
 Fufills all criteria in:
