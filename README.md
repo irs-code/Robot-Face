@@ -6,7 +6,7 @@ From the Robot Face assignment on Code.org JavaScript curriculum.
 
 ## Overview
 
-This project generates a randomized robot face using shapes, colors, and positions that change every time the program is run. It is written using Code.org's App Lab JavaScript environment.
+This project generates a randomized robot face using shapes, colors, and positions that change every time the program is run. It is written using Code.org's Game Lab JavaScript environment.
 
 ## Features
 
@@ -19,7 +19,12 @@ This project generates a randomized robot face using shapes, colors, and positio
 
 ## How to Run
 
-Open the project in [Code.org App Lab](https://code.org/educate/applab) and paste the contents of `ROBOTFACE.js` into the editor, then click **Run**.
+This project is intended to be run inside **Code.org Game Lab**:
+
+1. Open Code.org **Game Lab**.
+2. Create a new project (or open an existing Game Lab project).
+3. Copy/paste the contents of `ROBOTFACE.js` into the Game Lab code editor.
+4. Click **Run**.
 
 ## Rubric
 
